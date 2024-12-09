@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.arsabe75.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["72:80:26:93:46:C0:05:8C:9C:98:8B:96:6A:AC:E2:32:74:32:1D:9C:6A:0E:FA:9F:98:90:AB:4C:32:EB:BE:B5"]
+    }
+  }]
